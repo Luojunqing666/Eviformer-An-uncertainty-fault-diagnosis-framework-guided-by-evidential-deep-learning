@@ -5,7 +5,7 @@
 [![Paper](https://img.shields.io/badge/Paper-Engineering%20Applications%20of%20AI-blue)](https://doi.org/10.1016/j.engappai.2025.112328)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> Jingjie Luo, Fucai Li*, Xiaolei Xu, Wenqiang Zhao, Dongqing Zhang
+> Jingjie Luo, Fucai Li*, Xiaolei Xu、
 >
 > *Engineering Applications of Artificial Intelligence*, Volume 161, 2025, 112328
 
@@ -155,7 +155,7 @@ If you find this work useful, please cite:
 [![论文](https://img.shields.io/badge/论文-Engineering%20Applications%20of%20AI-blue)](https://doi.org/10.1016/j.engappai.2025.112328)
 [![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)](LICENSE)
 
-> 罗景杰, 李富才*, 徐晓磊, 赵文强, 张东青
+> 罗靖捷, 李富才*, 徐肖磊、
 >
 > *Engineering Applications of Artificial Intelligence*, 第161卷, 2025, 112328
 
