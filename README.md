@@ -166,7 +166,7 @@ If you find this work useful, please cite:
 Eviformer 是一个将**证据深度学习（EDL）**与 Transformer 架构相结合的故障诊断框架，能够同时提供分类预测和不确定性量化，用于机械故障诊断。该框架通过 Dirichlet 分布参数化来量化认知不确定性，从而实现可靠的决策支持。
 
 <div align="center">
-<img src="figures/overall_procedure.png" width="700" />
+<img src="figures/流程图.png" width="700" />
 <p><em>所提方法的整体流程</em></p>
 </div>
 
